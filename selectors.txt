@@ -1,0 +1,7 @@
+I see you are having issues connecting to the Tau.. 
+
+you could try with the following selectors: "00???" 
+
+or 
+
+channel codes: "*.*.*.H??"
